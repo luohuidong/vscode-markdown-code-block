@@ -1,6 +1,6 @@
 # VS Code Markdown Code Block
 
-An VS Code Extension for generating markdown code block.
+A VS Code Extension for generating markdown code block.
 
 If you are tired of typing <code>`</code> six times for generating markdown code block every time, this extension may suit you well.
 

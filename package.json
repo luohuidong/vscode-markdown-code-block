@@ -6,6 +6,7 @@
 	"engines": {
 		"vscode": "^1.30.0"
 	},
+	"publisher" : "luohuidong",
 	"categories": [
 		"Other"
 	],
@@ -36,5 +37,9 @@
 		"eslint": "^4.11.0",
 		"@types/node": "^8.10.25",
 		"@types/mocha": "^2.2.42"
-	}
+	},
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/luohuidong/vscode-markdown-code-block.git"
+    }
 }
